@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.x-gap.ml</id>
+    <title>Gridea</title>
+    <updated>2023-01-20T11:39:42.230Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://www.x-gap.ml"/>
+    <link rel="self" href="https://www.x-gap.ml/atom.xml"/>
+    <subtitle>&lt;center&gt;
+  &lt;font face=&quot;华文行楷&quot; size=4&gt;
+    &lt;span id=&quot;jinrishici-sentence&quot;&gt;正在加载今日诗词....&lt;/span&gt;
+  &lt;/font&gt;
+  &lt;script src=&quot;https://sdk.jinrishici.com/v2/browser/jinrishici.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;/center&gt;</subtitle>
+    <logo>https://www.x-gap.ml/images/avatar.png</logo>
+    <icon>https://www.x-gap.ml/favicon.ico</icon>
+    <rights>All rights reserved 2023, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[视频插入测试]]></title>
+        <id>https://www.x-gap.ml/post/shi-pin-cha-ru-ce-shi/</id>
+        <link href="https://www.x-gap.ml/post/shi-pin-cha-ru-ce-shi/">
+        </link>
+        <updated>2023-01-20T11:25:09.000Z</updated>
+        <content type="html"><![CDATA[<div style="position: relative; padding: 30% 45%;">
+    <iframe style="
+        position: absolute; 
+        width: 100%; 
+        height: 100%; 
+        left: 0; top: 0;" 
+        src="//player.bilibili.com/player.html?aid=847220411&bvid=BV1L54y1E7RQ&cid=385215083&page=1&high_quality=1" 
+        scrolling="no" 
+        border="0" 
+        frameborder="no" 
+        framespacing="0" 
+        allowfullscreen="true">
+    </iframe>
+</div>
+<video id="video" controls="" preload="none" poster="封面">
+      <source id="mp4" src="https://x-eta.ml/A2/1.mp4" type="video/mp4">
+</videos>
+<p><video src="https://x-eta.ml/A2/1.mp4" controls="controls" style="max-width: 100%; display: block; margin-left: auto; margin-right: auto;"> your browser does not support the video tag </video></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[化工设计大赛经验分享]]></title>
+        <id>https://www.x-gap.ml/post/hua-gong-she-ji-da-sai-zi-yuan-zheng-li/</id>
+        <link href="https://www.x-gap.ml/post/hua-gong-she-ji-da-sai-zi-yuan-zheng-li/">
+        </link>
+        <updated>2022-09-24T08:50:05.000Z</updated>
+        <summary type="html"><![CDATA[<p>断断续续来说的话也为这个竞赛忙碌了半年了，感谢队员们的努力与付出，祝贺本小组最终获得了全国三等奖的好成绩，也记录一些经验作为留念与分享... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>断断续续来说的话也为这个竞赛忙碌了半年了，感谢队员们的努力与付出，祝贺本小组最终获得了全国三等奖的好成绩，也记录一些经验作为留念与分享... ...</p>
+<!-- more -->
+<h2 id="设计要求">设计要求</h2>
+<p>需要知道设计任务是什么，在设计大赛官网的“下载中心-竞赛文件”可以查看，一般来说是以下四个文件：</p>
+<ul>
+<li><a href="http://iche.zju.edu.cn/attachments/file/20220717/20220717100215_91631.pdf">“天正设计杯”2022年第十六届全国大学生化工设计竞赛设计任务书</a></li>
+<li><a href="http://iche.zju.edu.cn/attachments/file/20210624/20210624100438_42501.pdf">“设计文档质量”专项评审评分实施细则</a></li>
+<li><a href="http://iche.zju.edu.cn/attachments/file/20210624/20210624100203_32222.pdf">“现代设计方法”专项评审评分实施细则</a></li>
+<li><a href="http://iche.zju.edu.cn/attachments/file/20210624/20210624100405_21992.pdf">“工程图纸质量”专项评审评分实施细则</a></li>
+</ul>
+<p>竞赛文件地址：http://iche.zju.edu.cn/redir.php?catalog_id=27438</p>
+<h2 id="全国决赛作品">全国决赛作品</h2>
+<p>你要找到去年的作品，推荐决赛作品，没有用学长学姐的也可以。</p>
+<ul>
+<li>
+<p><a href="https://sharewh.mti100.com/share/a80d8f96-01ff-4e13-8d02-37171bc4acb2?t=3">本组参考作品</a></p>
+</li>
+<li>
+<p><a href="https://pan.baidu.com/s/1xlqnfzDbPZwvaa5Al9BqjQ">2021年全国决赛作品</a>(提取码:4xzw)</p>
+</li>
+</ul>
+<h2 id="工艺流程图">工艺流程图</h2>
+<p>可以关注公众号“化设之友”“化工研学社”等相关公众号获取工艺流程图，Aspen流程就先跟着这个画。<br>
+<img src="https://x-eta.ml/A2/A2/0.jpg" width="80%"><br>
+<img src="https://x-eta.ml/A2/A2/1.jpg" width="80%"></p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/UgqM2COosvh6xpiZwlkxSw">其它1,4-丁二醇生产工艺流程图</a></li>
+</ul>
+<h2 id="市场调查">市场调查</h2>
+<p>选定工艺后，就要做原料和产品的市场调查，相关国家标准行情等，以及技术的优劣性，先说服自己自己的工艺是最好的。本组的市场调查：</p>
+<ul>
+<li><a href="https://x-eta.ml/A2/A2/%E5%B8%82%E5%9C%BA%E8%B0%83%E6%9F%A5.zip">市场调查</a></li>
+</ul>
+<p>国标查询网站：http://down.foodmate.net/</p>
+<h2 id="反应动力学">反应动力学</h2>
+<p>上知网、万方、ESI等平台查找反应相关的反应动力学数据，以下是本组使用的文献：</p>
+<ul>
+<li><a href="https://x-eta.ml/A2/A2/%E5%8F%8D%E5%BA%94%E5%8A%A8%E5%8A%9B%E5%AD%A6.zip">反应动力学</a></li>
+</ul>
+<h2 id="精馏与回收">精馏与回收</h2>
+<p>工艺需要对产品进行分离精制等还要查询相关论文研究。</p>
+<h2 id="风玫瑰图">风玫瑰图</h2>
+<p>风玫瑰图集可以看看我下面整理的文件，或者在土木之类的论坛查找，或者使用钞能力，闲鱼大约几毛钱到几块钱就能买到了。</p>
+<ul>
+<li><a href="https://x-eta.ml/A2/A2/%E5%85%A8%E5%9B%BD%E5%90%84%E5%9C%B0%E9%A3%8E%E7%8E%AB%E7%91%B0CAD%E5%9B%BE%E9%9B%86.zip">全国各地风玫瑰CAD图集</a></li>
+</ul>
+<h2 id="软件准备">软件准备</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">Pro</th>
+<th style="text-align:center">Plus</th>
+<th style="text-align:center">Lite</th>
+<th style="text-align:center">Repack</th>
+<th style="text-align:center">Green</th>
+<th style="text-align:center">Setup</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">专业版</td>
+<td style="text-align:center">增强版</td>
+<td style="text-align:center">精简版</td>
+<td style="text-align:center">破解版</td>
+<td style="text-align:center">绿色版</td>
+<td style="text-align:center">安装版</td>
+</tr>
+</tbody>
+</table>
+<p>需要的软件可以去“果核剥壳”“化工加”等专门下载软件的网站下载，尽量不要直接百度搜索，今年315曝光的P2P下载器估计也有不少人中过招吧，下面是我们设计使用到的软件，你可以放心下载：</p>
+<ul>
+<li><a href="https://sharewh.mti100.com/share/c03a09ab-c626-4d66-a032-e906491b8d28?t=3">化工设计大赛软件合集</a></li>
+</ul>
+<h2 id="视频资料">视频资料</h2>
+<p>这个直接建议B站查，有挺多视频的</p>
+<h2 id="本组成果">本组成果</h2>
+<p>需要密码请联系我。（2022-08-30：本组作品评为国三奖）</p>
+<ul>
+<li><a href="https://x-eta.ml/A2/A2/%E5%8D%8E%E5%8D%97%E8%B5%9B%E5%8C%BA-%E6%A1%82%E6%9E%97%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6-%E5%8C%96%E5%B7%A5%E5%B7%A5%E8%89%BA%E5%8C%85%E9%98%9F/">华南赛区-桂林理工大学-化工工艺包队</a></li>
+</ul>
+<h2 id="个人总结">个人总结</h2>
+<p>第一，我主要负责Word方面，但是分数不是很理想，建议参照国赛模板，该做表面功夫的都做好；<br>
+第二，要求交的作品文件绝对不要缺少；<br>
+第三，要是参考了别人的文件，最好自己弄个新文件做，不要在原文件上改，复制粘贴的内容注意查看不要有别队的信息，文件属性也不要有别队信息；<br>
+第四，图纸不用全部自己画，特别是3D根据自己组的将别组的重新换位就好；<br>
+第五，按要求提交作品，否则后果自负。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://www.x-gap.ml/post/hello-gridea/</id>
+        <link href="https://www.x-gap.ml/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="https://gridea.dev/">Gridea 主页</a><br>
+<a href="http://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
